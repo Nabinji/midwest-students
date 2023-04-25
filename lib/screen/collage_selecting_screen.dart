@@ -143,3 +143,4 @@ class FacultiesList extends ConsumerWidget {
     );
   }
 }
+// this is fork try
